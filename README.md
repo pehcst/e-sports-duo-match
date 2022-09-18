@@ -14,11 +14,11 @@ To make this project more organized, I moved the applications to different repos
 Here are the links to them
 
 #Client
-[Mobile](https://github.com/pehcst/e-sports-mobile)
-[Web](https://github.com/pehcst/e-sports-web)
+- [Mobile](https://github.com/pehcst/e-sports-mobile)
+- [Web](https://github.com/pehcst/e-sports-web)
 
 #Server
-[Server](https://github.com/pehcst/e-sports-server)
+- [Server](https://github.com/pehcst/e-sports-server)
 
 
 ## 📝 License
